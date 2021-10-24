@@ -7,7 +7,7 @@ My Thinkpad T460 Opencore Config
 ## Tested Hardware
 | Specs | Description                                                                                 |
 | :--------------- | :-------------------------------------------------------------------------------------------------------- |
-| Processor        | Core i5-6600U (2C, 2.6 / 3.4GHz, 4MB) vPro                                                                |
+| Processor        | Core i5-6300U                                                                |
 | Other         | [Lenovo Thinkpad T460 Specs](https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_T460/ThinkPad_T460_Spec.PDF)                                                                          |
 ## Thanks to
 - [Picel Media Group](https://www.youtube.com/watch?v=zdcPPpd-g8I)
